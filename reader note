@@ -1,0 +1,4 @@
+1.设置分页，当前页一行有多少字，当前页有多少行，一共有多少页？
+2.获取可视界面大小，visibleWidth，visibleHeight的计算
+3.缓存文件的思考，存放在file中的数据，是文字还是byte
+4.计算一行多少个字，contentWidth/(textSize+textSpace)
